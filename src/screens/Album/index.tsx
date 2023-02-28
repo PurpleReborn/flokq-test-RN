@@ -43,9 +43,14 @@ function Album() {
 
   const getSearch = () => {
     if (search?.length > 0) {
-      const res = albums?.filter((item: any) =>
-        item?.['im:name']?.label.toLowerCase().includes(search.toLowerCase()),
-      );
+      const res = albums?.filter((item: any) => {
+        let title = item?.['im:name']?.label.toLowerCase();
+        let artist = item['im:artist'].label.toLowerCase();
+        return (
+          title.includes(search.toLowerCase()) ||
+          artist.includes(search.toLowerCase())
+        );
+      });
       setFilterData(res);
       return;
     }
