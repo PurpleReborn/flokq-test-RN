@@ -15,8 +15,6 @@
 <li>Allow the top 100 to be searchable</li>
 </ul><h2>Screenshots</h2>
 
-<hr><p><img src="https://user-images.githubusercontent.com/79769140/221787819-2367e831-e213-41da-a9ef-7354b6d10b5e.png" alt=""></p><p><img src="https://user-images.githubusercontent.com/79769140/221788003-c16a0c67-f48e-47f0-8989-572814d2d0f4.png" alt=""></p><p><img src="https://user-images.githubusercontent.com/79769140/221788109-76724362-3087-4268-be9a-4dec1da9e981.png" alt="">
-
 Albums List | Search & Sort Album | Detail Album 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Albums List](https://user-images.githubusercontent.com/79769140/221787819-2367e831-e213-41da-a9ef-7354b6d10b5e.png?raw=true)  |  ![Search & Sort Album](https://user-images.githubusercontent.com/79769140/221788003-c16a0c67-f48e-47f0-8989-572814d2d0f4.png?raw=true) | ![Detail Album](https://user-images.githubusercontent.com/79769140/221788109-76724362-3087-4268-be9a-4dec1da9e981.png?raw=true)
